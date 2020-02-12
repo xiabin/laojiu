@@ -1,0 +1,2 @@
+vmess=34.80.106.6:51526, method=none, password=ddacb1da-96f1-44bc-b853-09405ab1e85d, fast-open=false, udp-relay=true, tag=googleyun_tw
+vmess=35.220.187.228:47201, method=none, password=365325cc-75e8-4a37-a009-3271c5435969, fast-open=false, udp-relay=true, tag=googleyun_hk
